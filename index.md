@@ -13,8 +13,7 @@ Practical AI and business guidance, verified before it's published. Every articl
 - [Memory Bank Protocol](/guides/memory-bank-protocol/)
 - [Context Management (Claude Code)](/guides/context-management/)
 - [Vibe Coding → Agentic Engineering](/guides/vibe-coding/)
-- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f34fdc5-89cb-44d1-b0b2-0303ca7d8d13" />
-
+- [Claude for Small Business — What It Actually Is](/guides/claude-for-small-business/)
 
 ## Browse by skill level
 - **Foundations** — getting started, no prior setup assumed
