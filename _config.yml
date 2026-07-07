@@ -1,0 +1,7 @@
+title: Learning with LLMs
+description: Verified, source-cited practical guidance on AI and business — no claim without a receipt.
+theme: minima
+markdown: kramdown
+show_excerpts: false
+header_pages:
+  - guides/index.md
